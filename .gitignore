@@ -1,4 +1,5 @@
 venv/
 .env
-data/Inventory.csv
+data/decks
 price_check.py
+README.md
